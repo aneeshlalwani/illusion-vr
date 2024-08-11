@@ -5,3 +5,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* ROOT STYLES */
+:root{
+    font-family: "Poppins", sans-serif;
+    color-scheme: dark;
+} 
